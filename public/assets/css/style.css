@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background: url(../img/wkg11.jpeg);
+  background: url(../img/wkg.jpeg);
   background-repeat: no-repeat;
 
 }
@@ -160,3 +160,4 @@ body {
     width: 42rem;
   }
 }
+
