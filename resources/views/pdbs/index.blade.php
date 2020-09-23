@@ -28,7 +28,7 @@
               
           <div class="inner cover">
             
-              <a  href="{{ route('pdbs.create') }}" class="btn btn-lg btn-success"> Daftar </a>
+              <a  href="{{ route('pdbs.create') }}" type="button" class="btn btn-info"> Daftar </a>
             </p>
           </div>
 
