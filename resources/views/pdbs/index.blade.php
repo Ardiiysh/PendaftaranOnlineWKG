@@ -12,7 +12,7 @@
 
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand">Cover</h3>
+              <h3 class="masthead-brand">Home</h3>
               <nav class="nav nav-masthead">
                 <a class="nav-link active" rel="nofollow" target="_blank" href="https://www.instagram.com/smkwikrama1garut/">instagram</a>
                 <a class="nav-link" href="https://web.facebook.com/profile.php?id=100009288325741&fref=search&__tn__=%2Cd%2CP-R&eid=ARBDeaGopT6llmJ4m7PxBKNayaJoPW6yyZHYTjjiZt12K5ItJGrUwxPhHtBSwhVRxWA0oMB16GaMnjyB">Facebook</a>
@@ -35,6 +35,7 @@
           <div class="mastfoot">
             <div class="inner">
               <p>Informasi lebih lanjut <a rel="nofollow" target="_blank" href="https://smkwikrama1garut.sch.id">SMK Wikrama 1 Garut</a>.</p>
+              <p>Developer : <a rel="nofollow" target="_blank" href="https://www.instagram.com/ardiiysh_/">@ardiyansah</a>.</p>
             </div>
           </div>
 
