@@ -25,9 +25,9 @@
           <h1 class="cover-heading">Selamat Datang.</h1>
           <h1 class="cover-heading">Di SMK Wikrama 1 Garut</h1>
           <p class="lead">Ilmu yang Amaliah, Amal yang ilmiah, Ahkhlakul Karimah
-              
+
           <div class="inner cover">
-            
+
               <a  href="{{ route('pdbs.create') }}" type="button" class="btn btn-info"> Daftar </a>
             </p>
           </div>
